@@ -1,8 +1,8 @@
--👋 Hi, I’m Rana Kinabadi!
--👀 I’m interested in Data Science, AI, Data Mining, Machine Learning, and Deep Learning.
--🌱 I’m currently learning Advanced Algorithms.
--📫 You can reach me at: rkinabadi@gmail.com
--😄 Pronouns: She/Her
+- 👋 Hi, I’m Rana Kinabadi!
+- 👀 I’m interested in Data Science, AI, Data Mining, Machine Learning, and Deep Learning.
+- 🌱 I’m currently learning Advanced Algorithms.
+- 📫 You can reach me at: rkinabadi@gmail.com
+- 😄 Pronouns: She/Her
 
 
 <!---
